@@ -29,5 +29,5 @@ resultado.textContent=`El nombres es ${nombre} el correo es  ${email} el asunto 
     
 }
 
-let captura = copia;
+
 
